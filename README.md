@@ -26,8 +26,8 @@ A Python-based port scanner with Nmap-style features including service detection
 
 ### Method 1: Clone from GitHub
 bash
-git clone https://github.com/riad67/advanced-nmap-scanner.git
-cd advanced-nmap-scanner
+git clone https://github.com/riad67/advanced-nmap-scanner.git;
+cd advanced-nmap-scanner;
 chmod +x scanner.py
 
 
