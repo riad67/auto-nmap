@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Riad Hossain**
 - GitHub: [@riad67](https://github.com/riad67/)
-- LinkedIn: [Riad Hossain] (https://www.linkedin.com/in/riad-hossain101/)
+- LinkedIn: Riad Hossain (https://www.linkedin.com/in/riad-hossain101/)
 
 ## 🙏 Acknowledgments
 
