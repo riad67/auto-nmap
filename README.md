@@ -76,6 +76,8 @@ Enter target IP address: 192.168.1.1
 [+] Port 80/tcp open - HTTP
 [+] Port 443/tcp open - HTTPS
 ```
+## Nmap Demo Auto Scan PoC
+https://github.com/user-attachments/assets/54d02955-7060-45af-a06c-2c3229b08563
 
 ## Project Structure
 
