@@ -86,8 +86,6 @@ advanced-nmap-scanner/
 ├── scanner.py          # Main scanner script
 ├── README.md           # This documentation
 ├── LICENSE             # MIT License
-├── .gitignore          # Git ignore file
-├── requirements.txt    # Python dependencies
 ├── examples/           # Example scans
 └── tests/              # Unit tests
 ```
