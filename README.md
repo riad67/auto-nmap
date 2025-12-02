@@ -26,27 +26,27 @@ User-Friendly Menu - Interactive command-line interface
 
 ### Method 1: Clone from GitHub
 bash
-!git clone https://github.com/riad67/advanced-nmap-scanner.git;
-!cd advanced-nmap-scanner;
-chmod +x scanner.py
+-git clone https://github.com/riad67/advanced-nmap-scanner.git;
+-cd advanced-nmap-scanner;
+-chmod +x scanner.py
 
 
 ### Method 2: Direct Download
 bash
->wget https://raw.githubusercontent.com/riad/advanced-nmap-scanner/main/scanner.py
-chmod +x scanner.py
+-wget https://raw.githubusercontent.com/riad/advanced-nmap-scanner/main/scanner.py
+-chmod +x scanner.py
 
 
 ## Usage
 
 ### Basic Usage
 bash
->python3 scanner.py
+-python3 scanner.py
 
 
 ### Command Line Arguments (Future Enhancement)
 bash
-python3 scanner.py -t 192.168.1.1 -p 1-1000 -sV
+-python3 scanner.py -t 192.168.1.1 -p 1-1000 -sV
 
 
 ### Scan Options
